@@ -1,0 +1,55 @@
+/* .carousel{
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+  
+}
+
+#slide-img{
+
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.screen{
+
+    height: calc(100vh - 60px);
+    
+  overflow: hidden;
+} */
+
+
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+  
+    
+   
+  }
+  
+  /* Full width and height for the main wrapper */
+  .size {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+  }
+  
+  /* Full height and width for the carousel */
+  .carousel-container {
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  .carousel {
+    height: 70vh;
+  }
+  
+  /* Each image fits exactly inside the carousel */
+  .carousel-img {
+    height: 100vh;
+    width: 100vw;
+    object-fit: cover;
+  }
+  

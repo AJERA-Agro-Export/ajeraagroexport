@@ -1,0 +1,29 @@
+
+.exp-box-content{
+
+    border: 2px dotted red;
+    height: 50px;
+    width: 150px;
+    text-align: center;
+    padding: 70px 0px;
+    background-color: rgb(20, 1, 23);
+    margin: 10px;
+
+   
+}
+
+.exp-box-content> h2{
+    font-size: 25px;
+    /* font-weight: 800px; */
+    color: white;
+   
+
+}
+
+.exp-box-content> p{
+      
+    color:red;
+    margin: 10px;
+    font-size: 18px;
+
+}
