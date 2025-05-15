@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ajeraagroexport/static/css/main.298c2db4.css",
+    "main.js": "/ajeraagroexport/static/js/main.eec4afa1.js",
+    "static/media/lap.jpg": "/ajeraagroexport/static/media/lap.351ce595e7ad58f742c1.jpg",
+    "static/media/g1.jpeg": "/ajeraagroexport/static/media/g1.0785240d7fbf0f47b3b4.jpeg",
+    "static/media/g6.webp": "/ajeraagroexport/static/media/g6.216e7ababf5125360e8d.webp",
+    "static/media/g4.webp": "/ajeraagroexport/static/media/g4.75caa0202c62aeb9e94a.webp",
+    "static/media/certificate.png": "/ajeraagroexport/static/media/certificate.02160b7620c95b81603d.png",
+    "static/media/n1.jpg": "/ajeraagroexport/static/media/n1.edc692e593de7c4683f4.jpg",
+    "index.html": "/ajeraagroexport/index.html",
+    "main.298c2db4.css.map": "/ajeraagroexport/static/css/main.298c2db4.css.map",
+    "main.eec4afa1.js.map": "/ajeraagroexport/static/js/main.eec4afa1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.298c2db4.css",
+    "static/js/main.eec4afa1.js"
+  ]
+}
